@@ -1,3 +1,9 @@
+---
+layout: page
+title: Red Cloud Infosec
+permalink: /
+---
+
 # Red Cloud Infosec
 
 Welcome to Red Cloud Infosec, your trusted provider of cybersecurity services. We offer a range of services to help protect your business and personal assets from online threats.
