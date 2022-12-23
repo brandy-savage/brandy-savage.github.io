@@ -1,3 +1,7 @@
+layout: page
+title: "Services"
+permalink: /services
+
 ## Online Risk Investigation and Personal Security Consultations
 - Assessing the potential risks to your online presence and personal assets
 - Providing recommendations for mitigating these risks
