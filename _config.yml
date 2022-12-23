@@ -23,8 +23,7 @@ email:
 description: >- # Information security services
 baseurl: "/main" # the subpath of your site, e.g. /blog
 url: "https://redcloud.llc" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+markdown: kramdown
 
 # Build settings
 theme: minima
