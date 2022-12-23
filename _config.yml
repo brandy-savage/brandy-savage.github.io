@@ -21,15 +21,15 @@
 title: Red Cloud Infosec
 email: 
 description: >- # Information security services
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "redcloud.llc" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/main" # the subpath of your site, e.g. /blog
+url: "https://redcloud.llc" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
