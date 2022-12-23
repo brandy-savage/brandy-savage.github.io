@@ -16,4 +16,4 @@ Prices for our services vary depending on the specific needs of each job. We off
 
 Thank you for considering Red Cloud Infosec for your cybersecurity needs. Contact us today to learn more about how we can help protect your business and personal assets.
 
-For more information, please visit our [services page](services.md) or [contact us](contact.md) to get in touch.
+For more information, please visit our [services page](services.markdown) or [contact us](contact.markdown) to get in touch.
