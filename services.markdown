@@ -48,5 +48,17 @@ permalink: /services
 - Providing guidance on securing your hardware against physical attacks, such as tampering and theft
 - Recommending tools and practices for maintaining secure hardware over time
 
-### Physical Security Consultation
-- Discussing best practices for protecting your physical assets and facilities, such as implementing
+### Physical Security Consultation:
+- Discussing best practices for protecting your physical assets and facilities, such as implementing access controls, surveillance systems, and visitor management processes
+- Providing guidance on identifying and mitigating potential physical security threats, such as burglaries and vandalism
+- Recommending tools and practices for maintaining strong physical security measures over time
+
+### Wireless Penetration Testing:
+- Identifying vulnerabilities in your wireless networks and devices, such as weak encryption, open access points, and default credentials
+- Providing recommendations for improving your wireless security posture, such as implementing stronger encryption, disabling unnecessary services, and disabling WPS
+- Testing the resilience of your wireless systems against simulated cyber attacks
+
+### Cloud Risk Assessment and Penetration Testing:
+- Identifying vulnerabilities in your cloud-based systems, such as misconfigured permissions, insecure data storage, and lack of encryption
+- Providing recommendations for improving your cloud security posture, such as implementing stronger access controls, enabling encryption, and monitoring for threats
+- Ensuring compliance with any regulatory requirements, such as HIPAA or PCI DSS
