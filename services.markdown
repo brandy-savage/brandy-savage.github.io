@@ -47,7 +47,9 @@ permalink: /services
 - Recommending tools and practices for maintaining secure hardware over time
 
 ### Physical Security
-- Discussing best practices for protecting your physical assets and facilities, such as implementing
+- Discussing best practices for protecting your physical assets and facilities, such as implementing access controls, surveillance systems, and visitor management processes
+- Providing guidance on identifying and mitigating potential physical security threats, such as burglaries and vandalism
+- Recommending tools and practices for maintaining strong physical security measures over time
 
 ## Online Risk and Personal Exposure
 - Assessing the potential risks to your online presence and personal assets
