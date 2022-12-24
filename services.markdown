@@ -5,11 +5,14 @@ permalink: /services
 ---
 
 ## Penetration Testing Services
-
-### External Network Penetration Testing
+<details>
+  <summary>External Network Penetration Testing</summary>
+  
 - Identifying vulnerabilities in your external-facing systems, such as routers, firewalls, and web servers
 - Providing recommendations for patching vulnerabilities, improving network segmentation, and implementing stronger authentication controls
 - Testing the effectiveness of your perimeter defenses against simulated cyber attacks
+  
+</details>
 
 ### Internal Network Penetration Testing
 - Identifying vulnerabilities in your internal network and systems
