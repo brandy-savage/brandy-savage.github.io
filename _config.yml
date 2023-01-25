@@ -22,7 +22,7 @@ title: Red Cloud Infosec
 email: 
 description: >- # Information security services
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://redcloud.llc" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://redcloudinfosec.com" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 
 # Build settings
