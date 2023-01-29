@@ -8,8 +8,7 @@ order: 2
 ## Penetration Testing Services
 <details>
 <summary>
-
- External Network Penetration Testing
+External Network Penetration Testing
 
 </summary>
 * Identifying vulnerabilities in your external-facing systems, such as routers, firewalls, and web servers
@@ -21,8 +20,7 @@ order: 2
 <br>
 <details>
 <summary>
-
- Internal Network Penetration Testing
+Internal Network Penetration Testing
 
 </summary>
 * Identifying vulnerabilities in your internal network and systems
@@ -32,7 +30,6 @@ order: 2
 <br>
 <details>
 <summary>
-
 Web Application Penetration Testing
 
 </summary>
@@ -45,8 +42,7 @@ Web Application Penetration Testing
 <br>
 <details>
 <summary>
-
- Mobile Application Assessment
+Mobile Application Assessment
 
 </summary>
 * Identifying vulnerabilities in your mobile applications, such as insecure data storage, weak authentication, and lack of transport-level encryption
@@ -58,8 +54,7 @@ Web Application Penetration Testing
 <br>
 <details>
 <summary>
-
- Command and Control & Data Exfiltration Assessment
+Command and Control & Data Exfiltration Assessment
 
 </summary>
 * Identifying vulnerabilities that could allow for unauthorized access to your systems or data exfiltration, such as open ports, weak passwords, and unpatched software
@@ -71,7 +66,7 @@ Web Application Penetration Testing
 <br>
 <details>
 <summary>
- Red Team Assessment
+Red Team Assessment
 
 </summary>
 * Simulating real-world attacks on your systems to test their resilience
@@ -83,8 +78,7 @@ Web Application Penetration Testing
 
 <details>
 <summary>
-
- Application Security
+Application Security
 
 </summary>
 * Discussing best practices for secure coding, such as input validation, sanitization, and error handling
@@ -96,8 +90,7 @@ Web Application Penetration Testing
 <br>
 <details>
 <summary>
-
- Hardware Security
+Hardware Security
 
 </summary>
 * Discussing best practices for securing your hardware and devices, such as implementing strong passwords, enabling encryption, and installing security updates
@@ -109,8 +102,7 @@ Web Application Penetration Testing
 <br>
 <details>
 <summary>
-
- Physical Security
+Physical Security
 
 </summary>
 * Discussing best practices for protecting your physical assets and facilities, such as implementing access controls, surveillance systems, and visitor management processes
@@ -122,8 +114,7 @@ Web Application Penetration Testing
 <br>
 <details>
 <summary>
-
- Online Risk and Personal Exposure
+Online Risk and Personal Exposure
 
 </summary>
 * Assessing the potential risks to your online presence and personal assets
