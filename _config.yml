@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Red Cloud Infosec
-email: 
+email: redcloudinfosec@googlegroups.com
+twitter_username: rc_infosec
 description: >- # Information security services
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://redcloudinfosec.com" # the base hostname & protocol for your site, e.g. http://example.com
